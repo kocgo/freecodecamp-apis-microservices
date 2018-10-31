@@ -3,7 +3,7 @@ Freecodecamp Apis and Microservices Projects
 
 * TimeStamp Microservice
 
-'[Click to visit project](https://timestamp-project-xheartean.glitch.me)'
+`[Click to visit project](https://timestamp-project-xheartean.glitch.me)`
 https://github.com/xheartean/time-stamp-api
 
 * Request Header Parser Microservice
