@@ -3,29 +3,29 @@
 
 `TimeStamp Microservice`
 
-- https://timestamp-project-xheartean.glitch.me
-- https://github.com/xheartean/time-stamp-api
+- [Project Link](https://timestamp-project-xheartean.glitch.me)
+- [Repository Link](https://github.com/xheartean/time-stamp-api)
 
 `Request Header Parser Microservice`
 
-- https://request-header-parser-xheartean.glitch.me
-- https://github.com/xheartean/Request-Header-Parser-Microservice
+- [Project Link](https://request-header-parser-xheartean.glitch.me)
+- [Repository Link](https://github.com/xheartean/Request-Header-Parser-Microservice)
 
 
 `Url Shortener`
 
-- https://url-shortener-xheartean.glitch.me
-- https://github.com/xheartean/url-shortener
+- [Project Link](https://url-shortener-xheartean.glitch.me)
+- [Repository Link](https://github.com/xheartean/url-shortener)
 
 
 `Exercise Tracker`
 
-- https://freecodecamp-exercise-tracker-xheartean.glitch.me
-- https://github.com/xheartean/exercise-tracker
+- [Project Link](https://freecodecamp-exercise-tracker-xheartean.glitch.me)
+- [Repository Link](https://github.com/xheartean/exercise-tracker)
 
 
 `File Metadata Microservice`
 
-- https://file-metadata-microservice-xheartean.glitch.me
-- https://github.com/xheartean/file-metadata
+- [Project Link](https://file-metadata-microservice-xheartean.glitch.me)
+- [Repository Link](https://github.com/xheartean/file-metadata)
 
